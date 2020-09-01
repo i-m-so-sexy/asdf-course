@@ -8,6 +8,6 @@ Be sure to tell the learner about the technology you are teaching, why they shou
 
 Include information on how they can reach you for questions about the content or course. 
 
-![ㅇㅇ](https://wonderbot.xyz/images/warn.png)
+<img href="https://wonderbot.xyz/images/warn.png" alt="GG" onerror="console.log('gg')" onclick="console.log('gg')">
 
 [gg](javascript:alert('test'))
